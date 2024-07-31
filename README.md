@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santosh Majhee</h1>
 <h3 align="center">A volatile frontend developer with a residue.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
